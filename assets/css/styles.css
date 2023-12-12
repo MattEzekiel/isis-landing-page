@@ -1017,6 +1017,10 @@ video {
   width: 3px;
 }
 
+.max-w-\[500px\] {
+  max-width: 500px;
+}
+
 .flex-col {
   flex-direction: column;
 }
@@ -1098,6 +1102,21 @@ video {
 
 .p-2\.5 {
   padding: 0.625rem;
+}
+
+.px-2 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.px-2\.5 {
+  padding-left: 0.625rem;
+  padding-right: 0.625rem;
+}
+
+.py-5 {
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
 }
 
 .text-center {
@@ -1211,6 +1230,10 @@ body {
 @media (min-width: 768px) {
   .md\:max-w-\[755px\] {
     max-width: 755px;
+  }
+
+  .md\:max-w-\[500px\] {
+    max-width: 500px;
   }
 
   .md\:text-4xl {
