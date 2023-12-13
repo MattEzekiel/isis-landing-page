@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-BoldItalic.woff2') format('woff2'),
+        url('Bitter-BoldItalic.woff') format('woff'),
+        url('Bitter-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-ExtraBold.woff2') format('woff2'),
+        url('Bitter-ExtraBold.woff') format('woff'),
+        url('Bitter-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-Bold.woff2') format('woff2'),
+        url('Bitter-Bold.woff') format('woff'),
+        url('Bitter-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-BlackItalic.woff2') format('woff2'),
+        url('Bitter-BlackItalic.woff') format('woff'),
+        url('Bitter-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-Black.woff2') format('woff2'),
+        url('Bitter-Black.woff') format('woff'),
+        url('Bitter-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-ExtraBoldItalic.woff2') format('woff2'),
+        url('Bitter-ExtraBoldItalic.woff') format('woff'),
+        url('Bitter-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-ExtraLight.woff2') format('woff2'),
+        url('Bitter-ExtraLight.woff') format('woff'),
+        url('Bitter-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-ExtraLightItalic.woff2') format('woff2'),
+        url('Bitter-ExtraLightItalic.woff') format('woff'),
+        url('Bitter-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-Italic.woff2') format('woff2'),
+        url('Bitter-Italic.woff') format('woff'),
+        url('Bitter-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-Light.woff2') format('woff2'),
+        url('Bitter-Light.woff') format('woff'),
+        url('Bitter-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-LightItalic.woff2') format('woff2'),
+        url('Bitter-LightItalic.woff') format('woff'),
+        url('Bitter-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-Medium.woff2') format('woff2'),
+        url('Bitter-Medium.woff') format('woff'),
+        url('Bitter-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-ThinItalic.woff2') format('woff2'),
+        url('Bitter-ThinItalic.woff') format('woff'),
+        url('Bitter-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-Regular.woff2') format('woff2'),
+        url('Bitter-Regular.woff') format('woff'),
+        url('Bitter-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-Thin.woff2') format('woff2'),
+        url('Bitter-Thin.woff') format('woff'),
+        url('Bitter-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-MediumItalic.woff2') format('woff2'),
+        url('Bitter-MediumItalic.woff') format('woff'),
+        url('Bitter-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-SemiBoldItalic.woff2') format('woff2'),
+        url('Bitter-SemiBoldItalic.woff') format('woff'),
+        url('Bitter-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-SemiBold.woff2') format('woff2'),
+        url('Bitter-SemiBold.woff') format('woff'),
+        url('Bitter-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
