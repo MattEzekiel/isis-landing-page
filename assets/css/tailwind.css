@@ -34,25 +34,37 @@ body {
 
 @media screen and (min-width: 1536px) {
     #hero {
-        background-image: url("../images/banner-desktop.jpg");
+        background-image: image-set(
+                url("../images/banner-desktop.webp") type("image/webp"),
+                url("../images/banner-desktop.jpg") type("image/jpg")
+        );
     }
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1535px) {
     #hero {
-        background-image: url("../images/banner-notebook.jpg");
+        background-image: image-set(
+                url("../images/banner-notebook.webp") type("image/webp"),
+                url("../images/banner-notebook.jpg") type("image/jpg")
+        );
     }
 }
 
 @media screen and (min-width: 641px) and (max-width: 1023px) {
     #hero {
-        background-image: url("../images/banner-tablet.jpg");
+        background-image: image-set(
+                url("../images/banner-tablet.webp") type("image/webp"),
+                url("../images/banner-tablet.jpg") type("image/jpg")
+        );
     }
 }
 
 @media screen and (max-width: 640px) {
     #hero {
-        background-image: url("../images/banner-mobile.jpg");
+        background-image: image-set(
+                url("../images/banner-mobile.webp") type("image/webp"),
+                url("../images/banner-mobile.jpg") type("image/jpg")
+        );
     }
-
 }
+
